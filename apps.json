@@ -1,13 +1,13 @@
 [
   {
-    "name": "Misali App",
-    "description": "Wannan app ne na gwaji. Maye gurbin shi da appinka.",
+    "name": "DN AI",
+    "description": "Mataimaki mai magana da Hausa ta Nijar. Yi hira, aika fayil, ka ajiye tarihin hirarka.",
     "version": "1.0",
-    "icon": "",
-    "apk": "https://github.com/Sanoussi9307/dn-store-data/releases/download/v1/misali.apk",
+    "icon": "https://raw.githubusercontent.com/Sanoussi9307/dn-store-data/main/dn-ai.png",
+    "apk": "https://github.com/Sanoussi9307/dn-store-data/releases/download/dn-ai-v1/app-release.apk",
     "category": "Kayan aiki",
-    "developer": "DN",
-    "size": "20 MB",
+    "developer": "DNLab",
+    "size": "51 MB",
     "featured": true
   }
 ]
