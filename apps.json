@@ -2,9 +2,8 @@
   {
     "name": "DN AI",
     "description": "Mataimaki mai magana da Hausa ta Nijar. Yi hira, aika fayil, ka ajiye tarihin hirarka.",
-    "version": "1.0",
-    "icon": "https://raw.githubusercontent.com/Sanoussi9307/dn-store-data/main/dn-ai.png",
-    "apk": "https://github.com/Sanoussi9307/dn-store-data/releases/download/dn-ai-v1/app-release.apk",
+    "version": "1.0.1",
+"apk": "https://github.com/Sanoussi9307/dn-store-data/releases/download/dn-ai-v2/app-release.apk",
     "category": "Kayan aiki",
     "developer": "DNLab",
     "size": "51 MB",
