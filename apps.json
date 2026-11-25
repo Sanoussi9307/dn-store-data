@@ -1,13 +1,13 @@
 [
   {
     "name": "DN AI",
-    "description": "Mataimaki mai magana da Hausa ta Nijar. Yi hira, aika hoto ko fayil, rubuta code, ka ajiye tarihin hirarka.",
-    "version": "1.0.2",
+    "description": "Mataimaki mai magana da Hausa ta Nijar. Yi hira, aika hoto ko fayil, rubuta code, yi magana da DN AI, ka saurari amsa.",
+    "version": "1.0.3",
     "icon": "https://raw.githubusercontent.com/Sanoussi9307/dn-store-data/main/dn-ai.png",
-    "apk": "https://github.com/Sanoussi9307/dn-store-data/releases/download/dn-ai-v3/app-release.apk",
+    "apk": "https://github.com/Sanoussi9307/dn-store-data/releases/download/dn-ai-v4/app-release.apk",
     "category": "Kayan aiki",
     "developer": "DNLab",
-    "size": "52,13 MB",
+    "size": "52,31 MB",
     "featured": true
   }
 ]
